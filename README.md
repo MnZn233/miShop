@@ -1,6 +1,6 @@
 # miShop
 
-This template should help get you started developing with Vue 3 in Vite.
+项目是学校前端实习作业，重点在于熟悉Vue3框架，绘制页面和了解数据处理。由于时间原因，并未完全还原，实现了基本功能
 
 ## Recommended IDE Setup
 
